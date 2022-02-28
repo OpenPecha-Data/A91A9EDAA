@@ -1,0 +1,63 @@
+segment_sources:
+  P124056D8:
+    type: origin_type
+    relation: translation
+    language: en
+  P214EE55A:
+    type: origin_type
+    relation: translation
+    language: es
+  PCCFE935D:
+    type: origin_type
+    relation: translation
+    language: fr
+  P02464513:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1b36d7c3223148c0a3800c6f2f54ba5a:
+    P124056D8: dc3781c2ca0e45adbb15ba464a0f02f6
+    P214EE55A: ce26a22995fa4245a777147a591dba2e
+    PCCFE935D: ee98f87a104a4450873650d4dd3823cb
+    P02464513: fad46f2ce7ac4575ae7dfa7fa9f2e661
+  2aa0a2c6138a46df9ac3e86eff12119b:
+    P124056D8: 9bd922e8ffd047f2aa6624c3bdd23fc9
+    P214EE55A: 68dd8ab89abb4f50ba8d6397df56e447
+    PCCFE935D: abd2d4b13eff4b2dafbaddfa51b43d1e
+    P02464513: e7e6e6030f4346b9b588e528c05c85b4
+  806bbb905f8f49c0a5cd31660a5b121b:
+    P124056D8: 9846b1117cd64462bc0906b1274d801c
+    P214EE55A: d1ea08b045a74f23ad85c79c3fc3c4ce
+    PCCFE935D: bcc6e0ab41c74cad817f0719cd37fbe6
+    P02464513: 77ce9be62d0a444a95641db374c7f57d
+  68437bef2bd54225bb709d0f4c19616e:
+    P124056D8: af7709fb8e0e4c969d6b0e267576eada
+    P214EE55A: 10a623686bc540dd976a7d00a58eeb11
+    PCCFE935D: 3893857319114024b19162cb013bf2cc
+    P02464513: 7a683cba66f446658d28ba93b4bdb817
+  d2c0de2c97e945caa30bd5a5aa33f05f:
+    P124056D8: aac955871f1740c1965f2871e86b8e8c
+    P214EE55A: 5480c3930ab3455ea97df6dfd9329d10
+    PCCFE935D: 27de73f8a5cc41c484df97cf8de5cd2c
+    P02464513: 440e9e675be24f0f890a9c8f61c09625
+  6bb0b69e62d848a08fdc4bacb4f53449:
+    P124056D8: f8ffd286af5b471a869766b258ad7667
+    P214EE55A: ff47db055c754887b8d5ee02028cc457
+    PCCFE935D: e7c2e40ba06e4fbbb374776526879517
+    P02464513: 2ffacd9c6ffc49c591c57b0f884acfce
+  3b6fc126211647e5a984947cbe92ba70:
+    P124056D8: 4347b00c9ae9436fb6e70bea21e89d76
+    P214EE55A: a0e26613243c4b15827a8c2aecf04b13
+    PCCFE935D: bbe2c0a01cc742d6b03b0ccab5415abb
+    P02464513: 0da763395f754e67a86dfc43522805de
+  cbdc429954e747d79f2ce66df9b80a3f:
+    P124056D8: 957e8df8c00e4a29835161a4c222aee7
+    P214EE55A: 2075e2d832ee468fb6574792528aec7e
+    PCCFE935D: 7a4b416e1bb34bc48b3ea527fbab7c57
+    P02464513: a696fe34d86a4175853aa41d8cba9bf0
+  dee8ee0a102d4eaaaeb4c09e8f442610:
+    P124056D8: aa79a3b551df420ca70185b6d0ce8549
+    P214EE55A: f6230d27c85b4e34a269d0437a258ddb
+    PCCFE935D: b2097f7edb3a4cfda0c8aa3dc27719dd
+    P02464513: cf9797fde60b47c9a3491bd80be0e410
